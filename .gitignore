@@ -1,0 +1,16 @@
+# Java (Server)
+server/target/
+server/.mvn/
+server/*.class
+server/.vscode/
+
+# Node (Client)
+client/node_modules/
+client/.next/
+client/out/
+client/build/
+client/.env
+
+# System
+.DS_Store
+*.log
